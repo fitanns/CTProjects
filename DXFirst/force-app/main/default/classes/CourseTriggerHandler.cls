@@ -5,8 +5,8 @@
 public with sharing class CourseTriggerHandler extends ITriggerHandler {
     public override void AfterInsert(List<sObject> newItems) {
 
-        CreateLessons createLessons = new CreateLessons();
-        createLessons.formCourseAndLessons(newItems);
+        LessonsService createLessons = new LessonsService();
+        createLessons.formMap(newItems);
 
     }
 }

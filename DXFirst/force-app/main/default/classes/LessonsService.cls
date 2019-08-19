@@ -2,8 +2,8 @@
  * Created by DmytroPinchuk on 19.08.2019.
  */
 
-public with sharing class CreateLessons {
-    public void formCourseAndLessons(List<sObject> newCourses) {
+public with sharing class LessonsService {
+    public void formMap(List<sObject> newCourses) {
         Set<Id> subjectIds = new Set<Id>();
         for (Course__c course : (List<Course__c>) newCourses) {
             subjectIds.add(course.Subject__c);
