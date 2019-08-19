@@ -1,0 +1,545 @@
+[
+    [
+        "C:\\Users\\DmytroPinchuk\\CTProjects\\CourseTrigger\\force-app",
+        {
+            "sourcePath": "C:\\Users\\DmytroPinchuk\\CTProjects\\CourseTrigger\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1565857568726,
+            "changeTime": 1565857568726,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\DmytroPinchuk\\CTProjects\\CourseTrigger\\force-app\\main",
+        {
+            "sourcePath": "C:\\Users\\DmytroPinchuk\\CTProjects\\CourseTrigger\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1565857568726,
+            "changeTime": 1565857568726,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\DmytroPinchuk\\CTProjects\\CourseTrigger\\force-app\\main\\default",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\DmytroPinchuk\\CTProjects\\CourseTrigger\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1565863289268,
+            "changeTime": 1565863289268,
+            "contentHash": "4661c78c480126dab7d17423d4217a6b754d07c5"
+        }
+    ],
+    [
+        "C:\\Users\\DmytroPinchuk\\CTProjects\\CourseTrigger\\force-app\\main\\default\\aura",
+        {
+            "sourcePath": "C:\\Users\\DmytroPinchuk\\CTProjects\\CourseTrigger\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1565857568727,
+            "changeTime": 1565857568727,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\DmytroPinchuk\\CTProjects\\CourseTrigger\\force-app\\main\\default\\lwc",
+        {
+            "sourcePath": "C:\\Users\\DmytroPinchuk\\CTProjects\\CourseTrigger\\force-app\\main\\default\\lwc",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1565857568727,
+            "changeTime": 1565857568727,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\DmytroPinchuk\\CTProjects\\CourseTrigger",
+        {
+            "sourcePath": "C:\\Users\\DmytroPinchuk\\CTProjects\\CourseTrigger",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1565857847805,
+            "changeTime": 1565863022364,
+            "contentHash": "3d48858a737ab8c39315eaf1c5149980d1a9cdae",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\DmytroPinchuk\\CTProjects\\CourseTrigger\\force-app\\main\\default\\objects\\Subject__c\\Subject__c.object-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\DmytroPinchuk\\CTProjects\\CourseTrigger\\force-app\\main\\default\\objects\\Subject__c\\Subject__c.object-meta.xml",
+            "isDirectory": false,
+            "size": 2059,
+            "modifiedTime": 1565863064270,
+            "changeTime": 1565863064270,
+            "contentHash": "465e3d067d16889a732a0c3bc2c6039327e733b4",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\DmytroPinchuk\\CTProjects\\CourseTrigger\\force-app\\main\\default\\objects\\Subject__c\\fields\\Description__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\DmytroPinchuk\\CTProjects\\CourseTrigger\\force-app\\main\\default\\objects\\Subject__c\\fields\\Description__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 411,
+            "modifiedTime": 1565863064275,
+            "changeTime": 1565863064275,
+            "contentHash": "3169a0161b2b91e6062911cf2172c5990ee83515",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\DmytroPinchuk\\CTProjects\\CourseTrigger\\force-app\\main\\default\\objects\\Subject__c\\fields\\Lesson_Duration__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\DmytroPinchuk\\CTProjects\\CourseTrigger\\force-app\\main\\default\\objects\\Subject__c\\fields\\Lesson_Duration__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 451,
+            "modifiedTime": 1565863064281,
+            "changeTime": 1565863064281,
+            "contentHash": "53ee38f5c9306521f4a29fc187d4245ac9526a31",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\DmytroPinchuk\\CTProjects\\CourseTrigger\\force-app\\main\\default\\objects\\Subject__c\\fields\\Number_of_Lessons__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\DmytroPinchuk\\CTProjects\\CourseTrigger\\force-app\\main\\default\\objects\\Subject__c\\fields\\Number_of_Lessons__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 457,
+            "modifiedTime": 1565863064286,
+            "changeTime": 1565863064286,
+            "contentHash": "91f111e2179d2c0dce14d6e611f49ecc8a384eba",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\DmytroPinchuk\\CTProjects\\CourseTrigger\\force-app\\main\\default\\objects\\Subject__c\\listViews\\All.listView-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\DmytroPinchuk\\CTProjects\\CourseTrigger\\force-app\\main\\default\\objects\\Subject__c\\listViews\\All.listView-meta.xml",
+            "isDirectory": false,
+            "size": 204,
+            "modifiedTime": 1565863064292,
+            "changeTime": 1565863064292,
+            "contentHash": "a09136a1a46c72265bcd1de0f4a07ba06ec1e9bd",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\DmytroPinchuk\\CTProjects\\CourseTrigger\\force-app\\main\\default\\objects\\Lesson__c\\Lesson__c.object-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\DmytroPinchuk\\CTProjects\\CourseTrigger\\force-app\\main\\default\\objects\\Lesson__c\\Lesson__c.object-meta.xml",
+            "isDirectory": false,
+            "size": 2158,
+            "modifiedTime": 1565863064309,
+            "changeTime": 1565863064309,
+            "contentHash": "48eebe859117fb35d4d89f5463981a79fa368e01",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\DmytroPinchuk\\CTProjects\\CourseTrigger\\force-app\\main\\default\\objects\\Lesson__c\\fields\\Course__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\DmytroPinchuk\\CTProjects\\CourseTrigger\\force-app\\main\\default\\objects\\Lesson__c\\fields\\Course__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 593,
+            "modifiedTime": 1565863064315,
+            "changeTime": 1565863064315,
+            "contentHash": "b3447bf7d938f93fe6fa7ba2b874aa76f6b12b3a",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\DmytroPinchuk\\CTProjects\\CourseTrigger\\force-app\\main\\default\\objects\\Lesson__c\\fields\\Date__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\DmytroPinchuk\\CTProjects\\CourseTrigger\\force-app\\main\\default\\objects\\Lesson__c\\fields\\Date__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 348,
+            "modifiedTime": 1565863064320,
+            "changeTime": 1565863064320,
+            "contentHash": "31e9443cc936be8ad261c0f10d5b18c003eb306a",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\DmytroPinchuk\\CTProjects\\CourseTrigger\\force-app\\main\\default\\objects\\Lesson__c\\listViews\\All.listView-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\DmytroPinchuk\\CTProjects\\CourseTrigger\\force-app\\main\\default\\objects\\Lesson__c\\listViews\\All.listView-meta.xml",
+            "isDirectory": false,
+            "size": 204,
+            "modifiedTime": 1565863064326,
+            "changeTime": 1565863064326,
+            "contentHash": "a09136a1a46c72265bcd1de0f4a07ba06ec1e9bd",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\DmytroPinchuk\\CTProjects\\CourseTrigger\\force-app\\main\\default\\objects\\Course__c\\Course__c.object-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\DmytroPinchuk\\CTProjects\\CourseTrigger\\force-app\\main\\default\\objects\\Course__c\\Course__c.object-meta.xml",
+            "isDirectory": false,
+            "size": 2065,
+            "modifiedTime": 1565863064339,
+            "changeTime": 1565863064339,
+            "contentHash": "8b2e2d83ce4300e09e0d6af6e65bbf61ed7ed461",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\DmytroPinchuk\\CTProjects\\CourseTrigger\\force-app\\main\\default\\objects\\Course__c\\fields\\End_Date__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\DmytroPinchuk\\CTProjects\\CourseTrigger\\force-app\\main\\default\\objects\\Course__c\\fields\\End_Date__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 364,
+            "modifiedTime": 1565863064347,
+            "changeTime": 1565863064347,
+            "contentHash": "16a98ed9468ca7cd83f4f6b139d5a07370ed3cc8",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\DmytroPinchuk\\CTProjects\\CourseTrigger\\force-app\\main\\default\\objects\\Course__c\\fields\\Start_Date__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\DmytroPinchuk\\CTProjects\\CourseTrigger\\force-app\\main\\default\\objects\\Course__c\\fields\\Start_Date__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 370,
+            "modifiedTime": 1565863064355,
+            "changeTime": 1565863064355,
+            "contentHash": "c6e7c9bab8604316c4b7b4f4e2de57252304abf3",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\DmytroPinchuk\\CTProjects\\CourseTrigger\\force-app\\main\\default\\objects\\Course__c\\fields\\Subject__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\DmytroPinchuk\\CTProjects\\CourseTrigger\\force-app\\main\\default\\objects\\Course__c\\fields\\Subject__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 596,
+            "modifiedTime": 1565863064362,
+            "changeTime": 1565863064362,
+            "contentHash": "280d96849c1ae80b9a2d4510b92467c2ed4a3ff1",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\DmytroPinchuk\\CTProjects\\CourseTrigger\\force-app\\main\\default\\objects\\Course__c\\listViews\\All.listView-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\DmytroPinchuk\\CTProjects\\CourseTrigger\\force-app\\main\\default\\objects\\Course__c\\listViews\\All.listView-meta.xml",
+            "isDirectory": false,
+            "size": 204,
+            "modifiedTime": 1565863064369,
+            "changeTime": 1565863064369,
+            "contentHash": "a09136a1a46c72265bcd1de0f4a07ba06ec1e9bd",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\DmytroPinchuk\\CTProjects\\CourseTrigger\\force-app\\main\\default\\layouts\\Course__c-Course Layout.layout-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\DmytroPinchuk\\CTProjects\\CourseTrigger\\force-app\\main\\default\\layouts\\Course__c-Course Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 2332,
+            "modifiedTime": 1565863064377,
+            "changeTime": 1565863064377,
+            "contentHash": "6a6e5183f57229e4865584f262ce1286dbe95590",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\DmytroPinchuk\\CTProjects\\CourseTrigger\\force-app\\main\\default\\layouts\\Lesson__c-Lesson Layout.layout-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\DmytroPinchuk\\CTProjects\\CourseTrigger\\force-app\\main\\default\\layouts\\Lesson__c-Lesson Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 2063,
+            "modifiedTime": 1565863064381,
+            "changeTime": 1565863064381,
+            "contentHash": "46df83a008a026b6d1f0b4545fece448c157e628",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\DmytroPinchuk\\CTProjects\\CourseTrigger\\force-app\\main\\default\\layouts\\Subject__c-Subject Layout.layout-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\DmytroPinchuk\\CTProjects\\CourseTrigger\\force-app\\main\\default\\layouts\\Subject__c-Subject Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 2505,
+            "modifiedTime": 1565863064386,
+            "changeTime": 1565863064386,
+            "contentHash": "51f6a169695569afd4465ea180586ab08eac0423",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\DmytroPinchuk\\CTProjects\\CourseTrigger\\force-app\\main\\default\\tabs\\Course__c.tab-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\DmytroPinchuk\\CTProjects\\CourseTrigger\\force-app\\main\\default\\tabs\\Course__c.tab-meta.xml",
+            "isDirectory": false,
+            "size": 222,
+            "modifiedTime": 1565863064389,
+            "changeTime": 1565863064389,
+            "contentHash": "33d296690a642082e57b8b9dbd236b3aece5a091",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\DmytroPinchuk\\CTProjects\\CourseTrigger\\force-app\\main\\default\\tabs\\Lesson__c.tab-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\DmytroPinchuk\\CTProjects\\CourseTrigger\\force-app\\main\\default\\tabs\\Lesson__c.tab-meta.xml",
+            "isDirectory": false,
+            "size": 223,
+            "modifiedTime": 1565863064393,
+            "changeTime": 1565863064393,
+            "contentHash": "6e6ce36238c68c3363a64744a7072e1a6ec83ae1",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\DmytroPinchuk\\CTProjects\\CourseTrigger\\force-app\\main\\default\\tabs\\Subject__c.tab-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\DmytroPinchuk\\CTProjects\\CourseTrigger\\force-app\\main\\default\\tabs\\Subject__c.tab-meta.xml",
+            "isDirectory": false,
+            "size": 222,
+            "modifiedTime": 1565863064396,
+            "changeTime": 1565863064396,
+            "contentHash": "33d296690a642082e57b8b9dbd236b3aece5a091",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\DmytroPinchuk\\CTProjects\\CourseTrigger\\force-app\\main\\default\\objects\\Subject__c",
+        {
+            "sourcePath": "C:\\Users\\DmytroPinchuk\\CTProjects\\CourseTrigger\\force-app\\main\\default\\objects\\Subject__c",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1565863064291,
+            "changeTime": 1565863064291,
+            "contentHash": "5c603dffddf4178c88ca72ae56ba08ff162ba0cf",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\DmytroPinchuk\\CTProjects\\CourseTrigger\\force-app\\main\\default\\objects",
+        {
+            "sourcePath": "C:\\Users\\DmytroPinchuk\\CTProjects\\CourseTrigger\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1565863064337,
+            "changeTime": 1565863064337,
+            "contentHash": "d9029622c5b04b966b994cc590515a474ae3fe9b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\DmytroPinchuk\\CTProjects\\CourseTrigger\\force-app\\main\\default\\objects\\Subject__c\\fields",
+        {
+            "sourcePath": "C:\\Users\\DmytroPinchuk\\CTProjects\\CourseTrigger\\force-app\\main\\default\\objects\\Subject__c\\fields",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1565863064286,
+            "changeTime": 1565863064286,
+            "contentHash": "b96afb1e981a7be0201c803ceac27e189f3f204a",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\DmytroPinchuk\\CTProjects\\CourseTrigger\\force-app\\main\\default\\objects\\Subject__c\\listViews",
+        {
+            "sourcePath": "C:\\Users\\DmytroPinchuk\\CTProjects\\CourseTrigger\\force-app\\main\\default\\objects\\Subject__c\\listViews",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1565863064291,
+            "changeTime": 1565863064291,
+            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\DmytroPinchuk\\CTProjects\\CourseTrigger\\force-app\\main\\default\\objects\\Lesson__c",
+        {
+            "sourcePath": "C:\\Users\\DmytroPinchuk\\CTProjects\\CourseTrigger\\force-app\\main\\default\\objects\\Lesson__c",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1565863064325,
+            "changeTime": 1565863064325,
+            "contentHash": "4dac1da0f6506b51f14cd50cef63cab7296e95de",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\DmytroPinchuk\\CTProjects\\CourseTrigger\\force-app\\main\\default\\objects\\Lesson__c\\fields",
+        {
+            "sourcePath": "C:\\Users\\DmytroPinchuk\\CTProjects\\CourseTrigger\\force-app\\main\\default\\objects\\Lesson__c\\fields",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1565863064320,
+            "changeTime": 1565863064320,
+            "contentHash": "7c668546ab22fff2a4a57bbaedcfbca8a109b518",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\DmytroPinchuk\\CTProjects\\CourseTrigger\\force-app\\main\\default\\objects\\Lesson__c\\listViews",
+        {
+            "sourcePath": "C:\\Users\\DmytroPinchuk\\CTProjects\\CourseTrigger\\force-app\\main\\default\\objects\\Lesson__c\\listViews",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1565863064325,
+            "changeTime": 1565863064325,
+            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\DmytroPinchuk\\CTProjects\\CourseTrigger\\force-app\\main\\default\\objects\\Course__c",
+        {
+            "sourcePath": "C:\\Users\\DmytroPinchuk\\CTProjects\\CourseTrigger\\force-app\\main\\default\\objects\\Course__c",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1565863064368,
+            "changeTime": 1565863064368,
+            "contentHash": "727c2adf469459ec07a9de126eed42794dfc4da7",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\DmytroPinchuk\\CTProjects\\CourseTrigger\\force-app\\main\\default\\objects\\Course__c\\fields",
+        {
+            "sourcePath": "C:\\Users\\DmytroPinchuk\\CTProjects\\CourseTrigger\\force-app\\main\\default\\objects\\Course__c\\fields",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1565863064362,
+            "changeTime": 1565863064362,
+            "contentHash": "211229945267f5ce2f3e65c0415d15e5f40036f1",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\DmytroPinchuk\\CTProjects\\CourseTrigger\\force-app\\main\\default\\objects\\Course__c\\listViews",
+        {
+            "sourcePath": "C:\\Users\\DmytroPinchuk\\CTProjects\\CourseTrigger\\force-app\\main\\default\\objects\\Course__c\\listViews",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1565863064368,
+            "changeTime": 1565863064368,
+            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\DmytroPinchuk\\CTProjects\\CourseTrigger\\force-app\\main\\default\\layouts",
+        {
+            "sourcePath": "C:\\Users\\DmytroPinchuk\\CTProjects\\CourseTrigger\\force-app\\main\\default\\layouts",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1565863064386,
+            "changeTime": 1565863064386,
+            "contentHash": "e8a27253f596fa865424dd0dca1a88f72ea2a8d3",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\DmytroPinchuk\\CTProjects\\CourseTrigger\\force-app\\main\\default\\tabs",
+        {
+            "sourcePath": "C:\\Users\\DmytroPinchuk\\CTProjects\\CourseTrigger\\force-app\\main\\default\\tabs",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1565863064396,
+            "changeTime": 1565863064396,
+            "contentHash": "94f623ebe1ba142cea54fb4de098fd093d769696",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\DmytroPinchuk\\CTProjects\\CourseTrigger\\force-app\\main\\default\\triggers\\CourseTrigger.trigger-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\DmytroPinchuk\\CTProjects\\CourseTrigger\\force-app\\main\\default\\triggers\\CourseTrigger.trigger-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 178,
+            "modifiedTime": 1565864214140,
+            "changeTime": 1565864214140,
+            "contentHash": "5d8d17e9ccc908122d14250ad244762799083212"
+        }
+    ],
+    [
+        "C:\\Users\\DmytroPinchuk\\CTProjects\\CourseTrigger\\force-app\\main\\default\\triggers\\CourseTrigger.trigger",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\DmytroPinchuk\\CTProjects\\CourseTrigger\\force-app\\main\\default\\triggers\\CourseTrigger.trigger",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 55,
+            "modifiedTime": 1565864214144,
+            "changeTime": 1565864214144,
+            "contentHash": "98dbc5d0b1806a858f5b0dba5b63853605462c20"
+        }
+    ],
+    [
+        "C:\\Users\\DmytroPinchuk\\CTProjects\\CourseTrigger\\force-app\\main\\default\\triggers",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\DmytroPinchuk\\CTProjects\\CourseTrigger\\force-app\\main\\default\\triggers",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1565864214143,
+            "changeTime": 1565864214143,
+            "contentHash": "9d5093093b2df412e7e89f4304f756c06a77ac8c"
+        }
+    ]
+]
