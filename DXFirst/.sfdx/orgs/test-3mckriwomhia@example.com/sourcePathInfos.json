@@ -134,15 +134,15 @@
     [
         "C:\\Users\\DmytroPinchuk\\CTProjects\\DXFirst\\force-app\\main\\default\\classes\\TriggerDispatcher.cls",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\DmytroPinchuk\\CTProjects\\DXFirst\\force-app\\main\\default\\classes\\TriggerDispatcher.cls",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 1213,
             "modifiedTime": 1566296539271,
             "changeTime": 1566296539271,
-            "isWorkspace": false,
-            "contentHash": "ac1b0d59c564ec33ebcae9b8433cee31be2c5df3"
+            "contentHash": "ac1b0d59c564ec33ebcae9b8433cee31be2c5df3",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
         }
     ],
     [
@@ -268,10 +268,10 @@
             "sourcePath": "C:\\Users\\DmytroPinchuk\\CTProjects\\DXFirst\\force-app\\main\\default\\classes\\LessonsServiceTest.cls",
             "isDirectory": false,
             "isMetadataFile": false,
-            "size": 2415,
-            "modifiedTime": 1566303051887,
-            "changeTime": 1566303051887,
-            "contentHash": "f9f394c7d2c7b6756a6124635f398f2bd1a5a8f7"
+            "size": 3303,
+            "modifiedTime": 1566303667655,
+            "changeTime": 1566303667655,
+            "contentHash": "1d3a3f788a56f1b08515db1b202eb2ef584bb781"
         }
     ],
     [

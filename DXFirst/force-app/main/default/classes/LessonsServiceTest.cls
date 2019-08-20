@@ -65,7 +65,6 @@ public with sharing class LessonsServiceTest {
         Test.stopTest();
 
         Integer lessons = [SELECT Count() FROM Lesson__c WHERE Course__r.Name = 'TestCourse'];
-        System.debug('lessons ' + lessons);
 
         System.assertEquals(2, lessons);
 
@@ -94,7 +93,6 @@ public with sharing class LessonsServiceTest {
         Test.stopTest();
 
         Integer lessons = [SELECT COUNT() FROM Lesson__c WHERE Course__r.Name LIKE 'TestName%'];
-        System.debug('lessons ' + lessons);
 
         System.assertEquals(3, lessons);
     }
