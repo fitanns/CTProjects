@@ -49,18 +49,20 @@ public with sharing class LessonsServiceTest {
     @isTest static void singleTestLessons() {
         TriggerDispatcher.isEnabled = false;
         Subject__c subject = insertSingleSubject();
+        List<Course__c> courses = new List<Course__c>();
         Course__c course = new Course__c();
         course.Name = 'TestCourse';
         course.Subject__c = subject.Id;
         Date startDate = Date.today();
         course.Start_Date__c = startDate;
         course.End_Date__c = startDate + 30;
+        courses.add(course);
 
-        insert course;
+        insert courses;
 
         Test.startTest();
         LessonsService createLessons = new LessonsService();
-        createLessons.formMap((List<sObject>) course);
+        createLessons.formMap((List<sObject>) courses);
         Test.stopTest();
 
         Integer lessons = [SELECT Count() FROM Lesson__c WHERE Course__r.Name = 'TestCourse'];
