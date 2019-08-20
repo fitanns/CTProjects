@@ -14,6 +14,12 @@ public with sharing class LessonsServiceTest {
         return subjects;
     }
 
+    @isTest static void testUtility(){
+        List<Subject__c> subjects = insertSubjects();
+        List<Id> subjectIds = ListUtility.getIds(Subject__c.Id,subjects);
+        System.debug('subjectsIds ' + subjectIds);
+    }
+
     public static Subject__c insertSingleSubject() {
         Subject__c subject = new Subject__c();
         subject.Name = 'TestSubject';
