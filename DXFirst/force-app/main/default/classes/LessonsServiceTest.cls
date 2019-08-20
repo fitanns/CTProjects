@@ -14,12 +14,18 @@ public with sharing class LessonsServiceTest {
         return subjects;
     }
 
-    @isTest static void testCreateLessons() {
+    public static Subject__c insertSingleSubject() {
+        Subject__c subject = new Subject__c();
+        subject.Name = 'TestSubject';
+        subject.Number_of_Lessons__c = 2;
+        insert subject;
+        return subject;
+    }
 
+    @isTest static void testIntegrationCreateLessons() {
+//        TriggerDispatcher.isEnabled = false;
         List<Course__c> courses = new List <Course__c>();
         List<Subject__c> subjects = insertSubjects();
-
-        System.debug('subjects ' + subjects);
 
         for (Integer i = 0; i < subjects.size(); i++) {
             Course__c course = new Course__c();
@@ -31,16 +37,39 @@ public with sharing class LessonsServiceTest {
             courses.add(course);
         }
 
-        System.debug('courses ' + courses);
-
         insert courses;
 
         Integer lessons = [SELECT COUNT() FROM Lesson__c WHERE Course__r.Name LIKE 'SomeName%'];
 
-        System.debug('lessons ' + lessons);
-
         System.assertEquals(3, lessons);
 
+    }
 
+
+    @isTest static void singleTestLessons() {
+        TriggerDispatcher.isEnabled = false;
+        Subject__c subject = insertSingleSubject();
+        Course__c course = new Course__c();
+        course.Name = 'TestCourse';
+        course.Subject__c = subject.Id;
+        Date startDate = Date.today();
+        course.Start_Date__c = startDate;
+        course.End_Date__c = startDate + 30;
+
+        insert course;
+
+        Test.startTest();
+        LessonsService createLessons = new LessonsService();
+        createLessons.formMap((List<sObject>) course);
+        Test.stopTest();
+
+        Integer lessons = [SELECT Count() FROM Lesson__c WHERE Course__r.Name = 'TestCourse'];
+        System.debug('lessons ' + lessons);
+
+        System.assertEquals(2, lessons);
+
+    }
+
+    @isTest static void bulkifyTestLessons() {
     }
 }
