@@ -27,7 +27,6 @@ public with sharing class LessonsServiceTest {
 
     }
 
-
     @isTest static void singleTestLessons() {
         TriggerDispatcher.isEnabled = false;
         Subject__c subject = TestDataFactory.insertSingleSubject();
