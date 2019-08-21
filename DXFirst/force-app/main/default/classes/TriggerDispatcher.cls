@@ -31,8 +31,6 @@ public with sharing class TriggerDispatcher {
                     handler.AfterUndelete(Trigger.new);
                 }
             }
-        }else{
-
         }
     }
 }

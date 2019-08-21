@@ -4,17 +4,17 @@
 
 public with sharing class LessonsService {
     public void formMap(List<sObject> newCourses) {
-        Set<Id> subjectIds = new Set<Id>();
-        for (Course__c course : (List<Course__c>) newCourses) {
-            subjectIds.add(course.Subject__c);
-        }
+//        Set<Id> subjectIds = new Set<Id>();
+//        for (Course__c course : (List<Course__c>) newCourses) {
+//            subjectIds.add(course.Subject__c);
+//        }
 
-        //List<Id> subjectsIds = ListUtility.getIds(Subject__c.Id,newCourses);
+        List<Id> subjectsIds = ListUtility.getIds(Subject__c.Id,newCourses);
 
         Map<Id, Subject__c> subjectsById = new Map<Id, Subject__c>([
                 SELECT Id, Number_Of_Lessons__c
                 FROM Subject__c
-                WHERE Id IN :subjectIds
+                WHERE Id IN :subjectsIds
         ]);
         insertLessons(newCourses, subjectsById);
     }
