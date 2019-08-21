@@ -24,5 +24,4 @@ public abstract with sharing class ITriggerHandler {
     public virtual void AfterUndelete(List<SObject> newItems) {
     }
 
-//    Boolean IsDisabled();
 }

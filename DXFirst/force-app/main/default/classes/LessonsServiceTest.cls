@@ -17,7 +17,7 @@ public with sharing class LessonsServiceTest {
     @isTest static void testUtility() {
         List<Subject__c> subjects = insertSubjects();
         List<Id> subjectIds = ListUtility.getIds(Subject__c.Id, subjects);
-        System.assertEquals(2,subjectIds.size());
+        System.assertEquals(2, subjectIds.size());
     }
 
     public static Subject__c insertSingleSubject() {

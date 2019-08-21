@@ -135,10 +135,10 @@
         {
             "sourcePath": "C:\\Users\\DmytroPinchuk\\CTProjects\\DXFirst\\force-app\\main\\default\\classes\\TriggerDispatcher.cls",
             "isDirectory": false,
-            "size": 1213,
-            "modifiedTime": 1566296539271,
-            "changeTime": 1566296539271,
-            "contentHash": "ac1b0d59c564ec33ebcae9b8433cee31be2c5df3",
+            "size": 1195,
+            "modifiedTime": 1566373909588,
+            "changeTime": 1566373909588,
+            "contentHash": "415bc0b229defe305156481f1fa904a30a6ae8f0",
             "isMetadataFile": false,
             "state": "u",
             "isWorkspace": false
@@ -237,14 +237,14 @@
     [
         "C:\\Users\\DmytroPinchuk\\CTProjects\\DXFirst\\force-app\\main\\default\\classes\\LessonsService.cls",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\DmytroPinchuk\\CTProjects\\DXFirst\\force-app\\main\\default\\classes\\LessonsService.cls",
             "isDirectory": false,
-            "size": 1277,
-            "modifiedTime": 1566229213781,
-            "changeTime": 1566229213781,
-            "contentHash": "81e5bdb1be3313e59495f6ef0442743b7ee297ff",
             "isMetadataFile": false,
-            "state": "u"
+            "size": 1375,
+            "modifiedTime": 1566375973581,
+            "changeTime": 1566375973581,
+            "contentHash": "2bba64ba4f725be1c81b4f8a2f8d774aa78fc7de"
         }
     ],
     [
@@ -263,14 +263,14 @@
     [
         "C:\\Users\\DmytroPinchuk\\CTProjects\\DXFirst\\force-app\\main\\default\\classes\\LessonsServiceTest.cls",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\DmytroPinchuk\\CTProjects\\DXFirst\\force-app\\main\\default\\classes\\LessonsServiceTest.cls",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 3445,
             "modifiedTime": 1566305226756,
             "changeTime": 1566305226756,
-            "contentHash": "84211716986bed7395f5bdacd99eba1caae5d84a"
+            "contentHash": "84211716986bed7395f5bdacd99eba1caae5d84a",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -292,7 +292,7 @@
             "sourcePath": "C:\\Users\\DmytroPinchuk\\CTProjects\\DXFirst\\force-app\\main\\Utilities",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1566303948466,
+            "modifiedTime": 1566375280283,
             "changeTime": 1566305029092,
             "contentHash": "551880b818433de022c1fb1dbe8e7d42443a6ed8",
             "isMetadataFile": false,

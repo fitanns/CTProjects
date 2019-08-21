@@ -3,10 +3,10 @@
  */
 
 public with sharing class ListUtility {
-    public static List<Id> getIds(SObjectField field, List<SObject> records){
+    public static List<Id> getIds(SObjectField field, List<SObject> records) {
         List<Id> ids = new List<Id>();
-        for(SObject record : records){
-            ids.add((Id)record.get(field));
+        for (SObject record : records) {
+            ids.add((Id) record.get(field));
         }
         return ids;
     }
