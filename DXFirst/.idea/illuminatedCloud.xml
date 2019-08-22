@@ -4,10 +4,10 @@
     <option name="connections">
       <list>
         <IlluminatedCloudConnection>
-          <option name="connectionName" value="LessonsScratch" />
+          <option name="connectionName" value="SecondScratch" />
           <option name="connectionType" value="SFDX" />
           <option name="defaultModuleName" value="DXFirst" />
-          <option name="offlineSymbolTablePath" value="$PROJECT_DIR$/IlluminatedCloud/LessonsScratch/OfflineSymbolTable.zip" />
+          <option name="offlineSymbolTablePath" value="$PROJECT_DIR$/IlluminatedCloud/SecondScratch/OfflineSymbolTable.zip" />
         </IlluminatedCloudConnection>
       </list>
     </option>

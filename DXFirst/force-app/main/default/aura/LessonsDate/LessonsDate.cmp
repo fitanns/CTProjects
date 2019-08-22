@@ -7,7 +7,7 @@
     <aura:attribute name="currentDate" type="Date" default="2019-8-21"/>
 
     <lightning:buttonGroup>
-        <lightning:input aura:id="datepicker" type="date" value="{!v.currentDate}" class="slds-datepicker" label="date" />
+        <lightning:input type="date" value="{!v.currentDate}" class="slds-datepicker" label="date" />
         <lightning:buttonIcon iconName="utility:chevronleft"  size="small" alternativeText="Date Before" class="slds-button__icon--left" onclick="{!c.handleLeftDate}"/>
         <lightning:buttonIcon iconName="utility:chevronright"  size="small" alternativeText="Date After" class="slds-button__icon--right" onclick="{!c.handleRightDate}"/>
         <lightning:button label="today" title="Today" onclick="{! c.handleTodayClick }"/>
