@@ -1,0 +1,16 @@
+<!--
+ - Created by DmytroPinchuk on 21.08.2019.
+ -->
+
+<aura:component description="LessonsDate" implements="flexipage:availableForRecordHome,force:hasRecordId" controller="LessonsController">
+
+    <lightning:buttonIcon iconName="chevronleft"  variant="border-filled" alternativeText="Date Before" />
+    <lightning:buttonIcon iconName="chevronright"  variant="border-filled" alternativeText="Date After" />
+
+
+    <!--
+    picker
+    Aura  - datatable
+    -->
+
+</aura:component>
