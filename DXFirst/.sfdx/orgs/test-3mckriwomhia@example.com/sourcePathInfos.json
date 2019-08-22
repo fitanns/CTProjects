@@ -49,27 +49,26 @@
             "sourcePath": "C:\\Users\\DmytroPinchuk\\CTProjects\\DXFirst\\force-app\\main\\default\\aura",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1565882002727,
-            "changeTime": 1565882002727,
-            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "modifiedTime": 1566402036303,
+            "changeTime": 1566402036303,
+            "contentHash": "4aa5930cfbc8388ed0745dbae160dc0ceb0e1537",
             "isMetadataFile": false,
             "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "isWorkspace": false
         }
     ],
     [
         "C:\\Users\\DmytroPinchuk\\CTProjects\\DXFirst\\force-app\\main\\default\\classes",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\DmytroPinchuk\\CTProjects\\DXFirst\\force-app\\main\\default\\classes",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1566376727890,
-            "changeTime": 1566376727890,
-            "isWorkspace": false,
-            "contentHash": "fad89df76556d22317110c3c5df2c798303da966"
+            "modifiedTime": 1566402603209,
+            "changeTime": 1566402603209,
+            "contentHash": "c02abd5ace5ad581514f08f7ad4553291ba0e93b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
         }
     ],
     [
@@ -267,10 +266,10 @@
             "sourcePath": "C:\\Users\\DmytroPinchuk\\CTProjects\\DXFirst\\force-app\\main\\default\\classes\\LessonsServiceTest.cls",
             "isDirectory": false,
             "isMetadataFile": false,
-            "size": 2941,
-            "modifiedTime": 1566376799392,
-            "changeTime": 1566376799392,
-            "contentHash": "9e18e82142f5083ce9a1f71010feb9406da7e79a"
+            "size": 2742,
+            "modifiedTime": 1566467722712,
+            "changeTime": 1566467722712,
+            "contentHash": "2a0d2009503c8496c58759fadc96612baa244fcb"
         }
     ],
     [
@@ -330,10 +329,10 @@
         {
             "sourcePath": "C:\\Users\\DmytroPinchuk\\CTProjects\\DXFirst\\force-app\\main\\Utilities\\TestDataFactory.cls",
             "isDirectory": false,
-            "size": 669,
-            "modifiedTime": 1566376585808,
-            "changeTime": 1566376585808,
-            "contentHash": "b969c0f0a9ae76a725828988f5643488611f9803",
+            "size": 725,
+            "modifiedTime": 1566467211183,
+            "changeTime": 1566467211183,
+            "contentHash": "794034e668a1f31e20833996625990741e3dc711",
             "isMetadataFile": false,
             "state": "u"
         }
@@ -354,27 +353,92 @@
     [
         "C:\\Users\\DmytroPinchuk\\CTProjects\\DXFirst\\force-app\\main\\default\\classes\\ListUtilityTest.cls",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\DmytroPinchuk\\CTProjects\\DXFirst\\force-app\\main\\default\\classes\\ListUtilityTest.cls",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 348,
             "modifiedTime": 1566376799401,
             "changeTime": 1566376799401,
-            "contentHash": "0e3186613a2cf4ea40f27c89fd8dbbd5611326d2"
+            "contentHash": "0e3186613a2cf4ea40f27c89fd8dbbd5611326d2",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\DmytroPinchuk\\CTProjects\\DXFirst\\force-app\\main\\default\\classes\\ListUtilityTest.cls-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\DmytroPinchuk\\CTProjects\\DXFirst\\force-app\\main\\default\\classes\\ListUtilityTest.cls-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 179,
             "modifiedTime": 1566376727895,
             "changeTime": 1566376727895,
-            "contentHash": "463a780dc1b11f5d645b2a49558ed28551f48927"
+            "contentHash": "463a780dc1b11f5d645b2a49558ed28551f48927",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\DmytroPinchuk\\CTProjects\\DXFirst\\force-app\\main\\default\\aura\\LessonsDate",
+        {
+            "sourcePath": "C:\\Users\\DmytroPinchuk\\CTProjects\\DXFirst\\force-app\\main\\default\\aura\\LessonsDate",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1566402036772,
+            "changeTime": 1566402036772,
+            "contentHash": "750f37de9575a3a5a4ec201cbc6c6e69e4f122a9",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\DmytroPinchuk\\CTProjects\\DXFirst\\force-app\\main\\default\\aura\\LessonsDate\\LessonsDate.cmp",
+        {
+            "sourcePath": "C:\\Users\\DmytroPinchuk\\CTProjects\\DXFirst\\force-app\\main\\default\\aura\\LessonsDate\\LessonsDate.cmp",
+            "isDirectory": false,
+            "size": 274,
+            "modifiedTime": 1566402907602,
+            "changeTime": 1566402907602,
+            "contentHash": "9f43411942a4e20a4779f6768bf1bde4a66f9d45",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\DmytroPinchuk\\CTProjects\\DXFirst\\force-app\\main\\default\\aura\\LessonsDate\\LessonsDate.cmp-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\DmytroPinchuk\\CTProjects\\DXFirst\\force-app\\main\\default\\aura\\LessonsDate\\LessonsDate.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 216,
+            "modifiedTime": 1566402036782,
+            "changeTime": 1566402036782,
+            "contentHash": "44b1ff7b4159179bd575dfbc58a111c6b0c2cee7",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\DmytroPinchuk\\CTProjects\\DXFirst\\force-app\\main\\default\\classes\\LessonsController.cls",
+        {
+            "sourcePath": "C:\\Users\\DmytroPinchuk\\CTProjects\\DXFirst\\force-app\\main\\default\\classes\\LessonsController.cls",
+            "isDirectory": false,
+            "size": 257,
+            "modifiedTime": 1566402754364,
+            "changeTime": 1566402754364,
+            "contentHash": "3abe72e35aa224b07f2d11d51d896d7c4bb1485b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\DmytroPinchuk\\CTProjects\\DXFirst\\force-app\\main\\default\\classes\\LessonsController.cls-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\DmytroPinchuk\\CTProjects\\DXFirst\\force-app\\main\\default\\classes\\LessonsController.cls-meta.xml",
+            "isDirectory": false,
+            "size": 179,
+            "modifiedTime": 1566402603220,
+            "changeTime": 1566402603220,
+            "contentHash": "463a780dc1b11f5d645b2a49558ed28551f48927",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ]
 ]

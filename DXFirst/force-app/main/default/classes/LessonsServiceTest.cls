@@ -23,7 +23,7 @@ public with sharing class LessonsServiceTest {
 
         Integer lessons = [SELECT COUNT() FROM Lesson__c WHERE Course__r.Name LIKE 'SomeName%'];
 
-        System.assertEquals(3, lessons);
+        System.assertEquals(6, lessons);
 
     }
 
@@ -39,6 +39,8 @@ public with sharing class LessonsServiceTest {
         course.End_Date__c = startDate + 30;
         courses.add(course);
 
+        System.debug('course ' + course);
+
         insert courses;
 
         Test.startTest();
@@ -48,7 +50,7 @@ public with sharing class LessonsServiceTest {
 
         Integer lessons = [SELECT Count() FROM Lesson__c WHERE Course__r.Name = 'TestCourse'];
 
-        System.assertEquals(2, lessons);
+        System.assertEquals(1, lessons);
 
     }
 
@@ -76,6 +78,6 @@ public with sharing class LessonsServiceTest {
 
         Integer lessons = [SELECT COUNT() FROM Lesson__c WHERE Course__r.Name LIKE 'TestName%'];
 
-        System.assertEquals(3, lessons);
+        System.assertEquals(6, lessons);
     }
 }
