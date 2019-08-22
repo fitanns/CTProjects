@@ -4,7 +4,7 @@
 
 <aura:component description="LessonsDate" implements="flexipage:availableForAllPageTypes"  access="global" controller="LessonsController">
 
-    <aura:attribute name="currentDate" type="Date" default="2019-8-21"
+    <aura:attribute name="currentDate" type="Date" default="2019-8-21"/>
 
     <lightning:buttonGroup>
         <lightning:input aura:id="datepicker" type="date" value="{!v.currentDate}" class="slds-datepicker" label="date" />
