@@ -7,7 +7,7 @@ public with sharing class LessonsServiceTest {
 
     @isTest static void testIntegrationCreateLessons() {
         List<Course__c> courses = new List <Course__c>();
-        List<Subject__c> subjects = TestDataFactory.insertSubjects();
+        List<Subject__c> subjects = TestDataFactory.insertSubjects(3);
 
         for (Integer i = 0; i < subjects.size(); i++) {
             Course__c course = new Course__c();
@@ -29,11 +29,11 @@ public with sharing class LessonsServiceTest {
 
     @isTest static void singleTestLessons() {
         TriggerDispatcher.isEnabled = false;
-        Subject__c subject = TestDataFactory.insertSingleSubject();
+        List<Subject__c> subject = TestDataFactory.insertSubjects(1);
         List<Course__c> courses = new List<Course__c>();
         Course__c course = new Course__c();
         course.Name = 'TestCourse';
-        course.Subject__c = subject.Id;
+        course.Subject__c = subject[0].Id;
         Date startDate = Date.today();
         course.Start_Date__c = startDate;
         course.End_Date__c = startDate + 30;
@@ -55,7 +55,7 @@ public with sharing class LessonsServiceTest {
     @isTest static void bulkifyTestLessons() {
         TriggerDispatcher.isEnabled = false;
         List<Course__c> courses = new List <Course__c>();
-        List<Subject__c> subjects = TestDataFactory.insertSubjects();
+        List<Subject__c> subjects = TestDataFactory.insertSubjects(3);
 
         for (Integer i = 0; i < subjects.size(); i++) {
             Course__c course = new Course__c();
