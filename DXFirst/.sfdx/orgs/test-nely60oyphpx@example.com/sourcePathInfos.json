@@ -77,15 +77,15 @@
     [
         "C:\\Users\\DmytroPinchuk\\CTProjects\\DXFirst\\force-app\\main\\default\\aura\\LessonsDate\\LessonsDate.cmp",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\DmytroPinchuk\\CTProjects\\DXFirst\\force-app\\main\\default\\aura\\LessonsDate\\LessonsDate.cmp",
             "isDirectory": false,
-            "size": 7595,
-            "modifiedTime": 1566553328276,
-            "changeTime": 1566553328276,
-            "contentHash": "3a9561950c3b980b1883ff06ab8a14d2a6332587",
             "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false
+            "size": 7596,
+            "modifiedTime": 1566554041242,
+            "changeTime": 1566554041242,
+            "isWorkspace": false,
+            "contentHash": "748117bca0fcb036ea1c3a612ff05cb1cc279771"
         }
     ],
     [
@@ -120,15 +120,15 @@
     [
         "C:\\Users\\DmytroPinchuk\\CTProjects\\DXFirst\\force-app\\main\\default\\aura\\LessonsDate\\LessonsDateController.js",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\DmytroPinchuk\\CTProjects\\DXFirst\\force-app\\main\\default\\aura\\LessonsDate\\LessonsDateController.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 873,
             "modifiedTime": 1566553955892,
             "changeTime": 1566553955892,
-            "isWorkspace": false,
-            "contentHash": "a8878e682d43b1669bc380d23b3ac077fb28c734"
+            "contentHash": "a8878e682d43b1669bc380d23b3ac077fb28c734",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
         }
     ],
     [
