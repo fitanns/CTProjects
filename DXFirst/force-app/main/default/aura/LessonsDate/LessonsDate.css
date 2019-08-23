@@ -50,7 +50,7 @@
     text-align: center;
 }
 .THIS .day-table tbody tr .time-lesson {
-    width: 75%;
+    background-color: whitesmoke;
     text-align: left;
 }
 
