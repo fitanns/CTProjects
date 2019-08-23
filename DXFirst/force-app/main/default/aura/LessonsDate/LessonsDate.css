@@ -28,28 +28,28 @@
 
 /*table*/
 .main-table{
-    width: 800px;
     margin: auto;
     background-color: white;
     font-family: Calibri, Myriad;
 }
-.THIS table{
+.THIS .day-table{
+    width: 800px;
     border-collapse: collapse;
     border: 1px solid grey;
 
 }
-.THIS table tbody tr td{
+.THIS .day-table tbody tr td{
     padding: 3px;
     border: 1px solid #ccc;
 
 
 }
 
-.THIS table tbody tr .day-hours {
+.THIS .day-table tbody tr .day-hours {
     width: 25%;
     text-align: center;
 }
-.THIS table tbody tr .time-lesson {
+.THIS .day-table tbody tr .time-lesson {
     width: 75%;
     text-align: left;
 }

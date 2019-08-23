@@ -15,7 +15,7 @@
 
 
     <div class="main-table">
-        <table>
+        <table class="day-table">
             <thead>
             <tr>
                 <th class="hours"></th>
@@ -24,101 +24,196 @@
             </thead>
             <tbody>
             <tr>
-                <td class="day-hours">1am</td>
+                <td class="day-hours" rowspan="2">1am</td>
                 <td class="time-lesson">asd</td>
             </tr>
             <tr>
-                <td class="day-hours">2am</td>
-                <td class="time-lesson"></td>
+                <td>a</td>
+            </tr>
+
+            <tr>
+                <td class="day-hours" rowspan="2">2am</td>
+                <td class="time-lesson">asd</td>
             </tr>
             <tr>
-                <td class="day-hours">3am</td>
-                <td class="time-lesson"></td>
+                <td>a</td>
             </tr>
             <tr>
-                <td class="day-hours">4am</td>
-                <td class="time-lesson"></td>
+                <td class="day-hours" rowspan="2">3am</td>
+                <td class="time-lesson">asd</td>
+
             </tr>
             <tr>
-                <td class="day-hours">5am</td>
-                <td class="time-lesson"></td>
+                <td>a</td>
             </tr>
             <tr>
-                <td class="day-hours">6am</td>
-                <td class="time-lesson"></td>
+                <td class="day-hours" rowspan="2">4am</td>
+                <td class="time-lesson">asd</td>
             </tr>
             <tr>
-                <td class="day-hours">7am</td>
-                <td class="time-lesson"></td>
+                <td>a</td>
+            </tr>
+
+            <tr>
+                <td class="day-hours" rowspan="2">5am</td>
+                <td class="time-lesson">asd</td>
             </tr>
             <tr>
-                <td class="day-hours">8am</td>
-                <td class="time-lesson"></td>
+                <td>a</td>
+            </tr>
+
+            <tr>
+                <td class="day-hours" rowspan="2">6am</td>
+                <td class="time-lesson">asd</td>
             </tr>
             <tr>
-                <td class="day-hours">9am</td>
-                <td class="time-lesson"></td>
+                <td>a</td>
+            </tr>
+
+            <tr>
+                <td class="day-hours" rowspan="2">7am</td>
+                <td class="time-lesson">asd</td>
             </tr>
             <tr>
-                <td class="day-hours">10am</td>
-                <td class="time-lesson"></td>
+                <td>a</td>
+            </tr>
+
+            <tr>
+                <td class="day-hours" rowspan="2">8am</td>
+                <td class="time-lesson">asd</td>
             </tr>
             <tr>
-                <td class="day-hours">11am</td>
-                <td class="time-lesson"></td>
+                <td>a</td>
+            </tr>
+
+            <tr>
+                <td class="day-hours" rowspan="2">9am</td>
+                <td class="time-lesson">asd</td>
             </tr>
             <tr>
-                <td class="day-hours">12pm</td>
-                <td class="time-lesson"></td>
+                <td>a</td>
+            </tr>
+
+            <tr>
+                <td class="day-hours" rowspan="2">10am</td>
+                <td class="time-lesson">asd</td>
             </tr>
             <tr>
-                <td class="day-hours">1pm</td>
-                <td class="time-lesson"></td>
+                <td>a</td>
+            </tr>
+
+            <tr>
+                <td class="day-hours" rowspan="2">11am</td>
+                <td class="time-lesson">asd</td>
             </tr>
             <tr>
-                <td class="day-hours">2pm</td>
-                <td class="time-lesson"></td>
+                <td>a</td>
+            </tr>
+
+            <tr>
+                <td class="day-hours" rowspan="2">12pm</td>
+                <td class="time-lesson">asd</td>
             </tr>
             <tr>
-                <td class="day-hours">3pm</td>
-                <td class="time-lesson"></td>
+                <td>a</td>
+            </tr>
+
+            <tr>
+                <td class="day-hours" rowspan="2">1pm</td>
+                <td class="time-lesson">asd</td>
             </tr>
             <tr>
-                <td class="day-hours">4pm</td>
-                <td class="time-lesson"></td>
+                <td>a</td>
+            </tr>
+
+            <tr>
+                <td class="day-hours" rowspan="2">2pm</td>
+                <td class="time-lesson">asd</td>
             </tr>
             <tr>
-                <td class="day-hours">5pm</td>
-                <td class="time-lesson"></td>
+                <td>a</td>
+            </tr>
+
+            <tr>
+                <td class="day-hours" rowspan="2">3pm</td>
+                <td class="time-lesson">asd</td>
             </tr>
             <tr>
-                <td class="day-hours">6pm</td>
-                <td class="time-lesson"></td>
+                <td>a</td>
+            </tr>
+
+            <tr>
+                <td class="day-hours" rowspan="2">4pm</td>
+                <td class="time-lesson">asd</td>
             </tr>
             <tr>
-                <td class="day-hours">7pm</td>
-                <td class="time-lesson"></td>
+                <td>a</td>
+            </tr>
+
+            <tr>
+                <td class="day-hours" rowspan="2">5pm</td>
+                <td class="time-lesson">asd</td>
             </tr>
             <tr>
-                <td class="day-hours">8pm</td>
-                <td class="time-lesson"></td>
+                <td>a</td>
+            </tr>
+
+            <tr>
+                <td class="day-hours" rowspan="2">6pm</td>
+                <td class="time-lesson">asd</td>
             </tr>
             <tr>
-                <td class="day-hours">9pm</td>
-                <td class="time-lesson"></td>
+                <td>a</td>
+            </tr>
+
+            <tr>
+                <td class="day-hours" rowspan="2">7pm</td>
+                <td class="time-lesson">asd</td>
             </tr>
             <tr>
-                <td class="day-hours">10pm</td>
-                <td class="time-lesson"></td>
+                <td>a</td>
+            </tr>
+
+            <tr>
+                <td class="day-hours" rowspan="2">8pm</td>
+                <td class="time-lesson">asd</td>
             </tr>
             <tr>
-                <td class="day-hours">11pm</td>
-                <td class="time-lesson"></td>
+                <td>a</td>
+            </tr>
+
+            <tr>
+                <td class="day-hours" rowspan="2">9pm</td>
+                <td class="time-lesson">asd</td>
             </tr>
             <tr>
-                <td class="day-hours">12am</td>
-                <td class="time-lesson"></td>
+                <td>a</td>
             </tr>
+
+            <tr>
+                <td class="day-hours" rowspan="2">10pm</td>
+                <td class="time-lesson">asd</td>
+            </tr>
+            <tr>
+                <td>a</td>
+            </tr>
+
+            <tr>
+                <td class="day-hours" rowspan="2">11pm</td>
+                <td class="time-lesson">asd</td>
+            </tr>
+            <tr>
+                <td>a</td>
+            </tr>
+
+            <tr>
+                <td class="day-hours" rowspan="2">12am</td>
+                <td class="time-lesson">asd</td>
+            </tr>
+            <tr>
+                <td>a</td>
+            </tr>
+
             </tbody>
         </table>
     </div>
