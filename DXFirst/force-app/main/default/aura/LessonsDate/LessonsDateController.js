@@ -5,15 +5,15 @@
 ({
     handleLeftDate : function (component, event, helper) {
         let currDate =  component.get("v.currentDate");
-        currDate.setDate(currDate.getDate() - 1);
-        component.set("v.currentDate", currDate);
-
-
+        let newDate = new Date(currDate.toString());
+        newDate.setDate(newDate.getDate() - 1);
+        component.set("v.currentDate", newDate);
     },
     handleRightDate : function (component, event, helper) {
         let currDate =  component.get("v.currentDate");
-        currDate.setDate(currDate.getDate() + 1);
-        component.set("v.currentDate", currDate);
+        let newDate = new Date(currDate.toString());
+        newDate.setDate(newDate.getDate() + 1);
+        component.set("v.currentDate", newDate);
     },
     handleTodayClick : function (component, event, helper) {
         let dateObj = new Date();

@@ -77,15 +77,15 @@
     [
         "C:\\Users\\DmytroPinchuk\\CTProjects\\DXFirst\\force-app\\main\\default\\aura\\LessonsDate\\LessonsDate.cmp",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\DmytroPinchuk\\CTProjects\\DXFirst\\force-app\\main\\default\\aura\\LessonsDate\\LessonsDate.cmp",
             "isDirectory": false,
+            "size": 7582,
+            "modifiedTime": 1566554077937,
+            "changeTime": 1566554077937,
+            "contentHash": "18f9b1a7ec3d97bcfce5b226ce835dd56bbdce81",
             "isMetadataFile": false,
-            "size": 7596,
-            "modifiedTime": 1566554041242,
-            "changeTime": 1566554041242,
-            "isWorkspace": false,
-            "contentHash": "748117bca0fcb036ea1c3a612ff05cb1cc279771"
+            "state": "u",
+            "isWorkspace": false
         }
     ],
     [
@@ -109,9 +109,9 @@
             "sourcePath": "C:\\Users\\DmytroPinchuk\\CTProjects\\DXFirst\\force-app\\main\\default\\aura\\LessonsDate\\LessonsDate.css",
             "isDirectory": false,
             "size": 888,
-            "modifiedTime": 1566553738684,
-            "changeTime": 1566553738684,
-            "contentHash": "b0ccaea9c0846ceba8b7b5df14abb66a30c5d7c2",
+            "modifiedTime": 1566554358455,
+            "changeTime": 1566554358455,
+            "contentHash": "b5b4e596f5b4920aca87e288bd9fec2a8a0cd59a",
             "isMetadataFile": false,
             "state": "u",
             "isWorkspace": false
@@ -120,15 +120,15 @@
     [
         "C:\\Users\\DmytroPinchuk\\CTProjects\\DXFirst\\force-app\\main\\default\\aura\\LessonsDate\\LessonsDateController.js",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\DmytroPinchuk\\CTProjects\\DXFirst\\force-app\\main\\default\\aura\\LessonsDate\\LessonsDateController.js",
             "isDirectory": false,
-            "size": 873,
-            "modifiedTime": 1566553955892,
-            "changeTime": 1566553955892,
-            "contentHash": "a8878e682d43b1669bc380d23b3ac077fb28c734",
             "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false
+            "size": 920,
+            "modifiedTime": 1566557244675,
+            "changeTime": 1566557244675,
+            "isWorkspace": false,
+            "contentHash": "7fa0a171852ec8829517484018cbaed8110f9bda"
         }
     ],
     [
