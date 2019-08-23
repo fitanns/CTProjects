@@ -27,13 +27,13 @@
 }
 
 /*table*/
-.main-table{
+.THIS .main-table{
     margin: auto;
     background-color: white;
     font-family: Calibri, Myriad;
 }
 .THIS .day-table{
-    width: 800px;
+    width: 100%;
     border-collapse: collapse;
     border: 1px solid grey;
 

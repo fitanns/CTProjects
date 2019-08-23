@@ -4,14 +4,14 @@
 
 ({
     handleLeftDate : function (component, event, helper) {
-        let currDate =  component.get('v.currentDate');
+        let currDate =  component.get("v.currentDate");
         currDate.setDate(currDate.getDate() - 1);
         component.set("v.currentDate", currDate);
 
 
     },
     handleRightDate : function (component, event, helper) {
-        let currDate =  component.get('v.currentDate');
+        let currDate =  component.get("v.currentDate");
         currDate.setDate(currDate.getDate() + 1);
         component.set("v.currentDate", currDate);
     },
