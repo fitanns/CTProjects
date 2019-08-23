@@ -1,14 +1,14 @@
 <aura:component description="LessonsDate" implements="flexipage:availableForAllPageTypes"  access="global" controller="LessonsController">
 
     <aura:attribute name="currentDate" type="Date" default="2019-08-21"/>
-
+<div class="date-and-buttons">
     <lightning:buttonGroup>
         <lightning:input type="date" value="{!v.currentDate}" class="slds-datepicker"/>
         <lightning:buttonIcon iconName="utility:chevronleft"  size="small" alternativeText="Date Before" class="slds-button__icon--left" onclick="{!c.handleLeftDate}"/>
         <lightning:buttonIcon iconName="utility:chevronright"  size="small" alternativeText="Date After" class="slds-button__icon--right" onclick="{!c.handleRightDate}"/>
         <lightning:button label="today" title="Today" onclick="{! c.handleTodayClick }"/>
     </lightning:buttonGroup>
-
+</div>
     <div class="main-table">
         <table class="day-table">
             <thead>
